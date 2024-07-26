@@ -6,6 +6,6 @@ public class MainClass {
 		System.out.println("sss");
 		System.out.println("정유엽♥심은우");
 		System.out.println("오오오오오오오오오오오오");
-		System.out.println("1234");
+		System.out.println("123");
 	}
 }
